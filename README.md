@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ![](https://github.com/tkhalim14/tkhalim14/blob/main/star-wars-obi-wan-kenobi.gif)
+![](https://github.com/tkhalim14/tkhalim14/blob/main/star-wars-obi-wan-kenobi.gif)
 
 # 💫 About Me:
 Hello, Myself, Tabish and I'm currently pursuing my B.Tech in CSE from IIT Dharwad. I'm just a passionate & compassionate person who likes to code and always work hard to improve and explore new things.<br><br>My main interests are in Frontend, Backend, Competitive Programming, Application Development, Game Development & AI.<br><br>- 🔭 I’m currently working on game development on Unity.<br>- 🌱 I’m currently studying. <br>- 👯 I’m looking to collaborate on web design, web apps & mobile apps.<br>- 🤔 I’m looking for help with my life ( *:(  => { return *:) })<br>- 📫 How to reach me? : https://tabishflashytechy.netlify.app<br>- ⚡ Fun fact: I can also sing & write poetry!
